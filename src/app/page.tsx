@@ -54,8 +54,8 @@ export default function Home() {
         <Image
           src="/t-logo.png"
           alt="100 Дней Любви к Себе"
-          width={80}
-          height={80}
+          width={120}
+          height={120}
           className="mb-4 object-contain drop-shadow-md"
           priority
         />
