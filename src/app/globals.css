@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-background: #FAF5F0;
+  --color-foreground: #4A3B39;
+  
+  --color-card: #FFFFFF;
+  --color-card-foreground: #4A3B39;
+  
+  --color-popover: #FFFFFF;
+  --color-popover-foreground: #4A3B39;
+  
+  --color-primary: #E58B88;
+  --color-primary-foreground: #FFFFFF;
+  
+  --color-secondary: #F3E8E0;
+  --color-secondary-foreground: #4A3B39;
+  
+  --color-muted: #F3E8E0;
+  --color-muted-foreground: #8C7B79;
+  
+  --color-accent: #D4B3A8;
+  --color-accent-foreground: #4A3B39;
+  
+  --color-destructive: #ef4444;
+  --color-destructive-foreground: #FFFFFF;
+
+  --color-border: #E8DCC0;
+  --color-input: #E8DCC0;
+  --color-ring: #E58B88;
+
+  --radius-lg: 1rem;
+  --radius-md: 0.75rem;
+  --radius-sm: 0.5rem;
+}
+
+@utility container {
+  margin-inline: auto;
+  padding-inline: 1rem;
+  max-width: 600px; /* Keep it mobile-focused */
+}
+
+/* Base styles */
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-border, currentColor);
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}

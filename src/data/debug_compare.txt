@@ -1,0 +1,3 @@
+Workout Name: 'Отжимания от стены'
+Explanation Key: 'Отжимания от стены'
+Are they equal? True

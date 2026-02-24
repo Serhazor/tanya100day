@@ -1,0 +1,3112 @@
+{
+  "workouts": [
+    {
+      "day_label": "День 1",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 2,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стены",
+          "reps": 15
+        },
+        {
+          "name": "Приседания до стула (контроль глубины)",
+          "reps": 10
+        },
+        {
+          "name": "Тяга к перекладине в наклоне с высокой опорой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с опорой на диван (облегчённый)",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 10
+        },
+        {
+          "name": "Выпады назад с опорой",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 2",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 2,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стены",
+          "reps": 15
+        },
+        {
+          "name": "Приседания до стула (контроль глубины)",
+          "reps": 10
+        },
+        {
+          "name": "Тяга к перекладине в наклоне с высокой опорой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с опорой на диван (облегчённый)",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 10
+        },
+        {
+          "name": "Выпады назад с опорой",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 3",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 2,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стены",
+          "reps": 15
+        },
+        {
+          "name": "Приседания до стула (контроль глубины)",
+          "reps": 10
+        },
+        {
+          "name": "Тяга к перекладине в наклоне с высокой опорой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с опорой на диван (облегчённый)",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 10
+        },
+        {
+          "name": "Выпады назад с опорой",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 4",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 2,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стены",
+          "reps": 15
+        },
+        {
+          "name": "Приседания до стула (контроль глубины)",
+          "reps": 10
+        },
+        {
+          "name": "Тяга к перекладине в наклоне с высокой опорой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с опорой на диван (облегчённый)",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 10
+        },
+        {
+          "name": "Выпады назад с опорой",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 5",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 2,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стены",
+          "reps": 15
+        },
+        {
+          "name": "Приседания до стула (контроль глубины)",
+          "reps": 10
+        },
+        {
+          "name": "Тяга к перекладине в наклоне с высокой опорой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с опорой на диван (облегчённый)",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 10
+        },
+        {
+          "name": "Выпады назад с опорой",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 6",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 2,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стены",
+          "reps": 15
+        },
+        {
+          "name": "Приседания до стула (контроль глубины)",
+          "reps": 10
+        },
+        {
+          "name": "Тяга к перекладине в наклоне с высокой опорой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с опорой на диван (облегчённый)",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 10
+        },
+        {
+          "name": "Выпады назад с опорой",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 7",
+      "warmup_url": null,
+      "rounds": null,
+      "cooldown_url": null,
+      "exercises": []
+    },
+    {
+      "day_label": "День 8",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 2,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стола (наклонные)",
+          "reps": 10
+        },
+        {
+          "name": "Полуприседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 10
+        },
+        {
+          "name": "Выпады назад",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 9",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 2,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стола (наклонные)",
+          "reps": 10
+        },
+        {
+          "name": "Полуприседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 10
+        },
+        {
+          "name": "Выпады назад",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 10",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 2,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стола (наклонные)",
+          "reps": 10
+        },
+        {
+          "name": "Полуприседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 10
+        },
+        {
+          "name": "Выпады назад",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 11",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 2,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стола (наклонные)",
+          "reps": 10
+        },
+        {
+          "name": "Полуприседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 10
+        },
+        {
+          "name": "Выпады назад",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 12",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 2,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стола (наклонные)",
+          "reps": 10
+        },
+        {
+          "name": "Полуприседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 10
+        },
+        {
+          "name": "Выпады назад",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 13",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 2,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стола (наклонные)",
+          "reps": 10
+        },
+        {
+          "name": "Полуприседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 10
+        },
+        {
+          "name": "Выпады назад",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 14",
+      "warmup_url": null,
+      "rounds": null,
+      "cooldown_url": null,
+      "exercises": []
+    },
+    {
+      "day_label": "День 15",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стула/дивана (наклонные)",
+          "reps": 10
+        },
+        {
+          "name": "Приседания с опорой руками",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с паузой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с паузой",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой с колен (полуколено)",
+          "reps": 10
+        },
+        {
+          "name": "Выпады вперёд",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 16",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стула/дивана (наклонные)",
+          "reps": 10
+        },
+        {
+          "name": "Приседания с опорой руками",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с паузой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с паузой",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой с колен (полуколено)",
+          "reps": 10
+        },
+        {
+          "name": "Выпады вперёд",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 17",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стула/дивана (наклонные)",
+          "reps": 10
+        },
+        {
+          "name": "Приседания с опорой руками",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с паузой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с паузой",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой с колен (полуколено)",
+          "reps": 10
+        },
+        {
+          "name": "Выпады вперёд",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 18",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стула/дивана (наклонные)",
+          "reps": 10
+        },
+        {
+          "name": "Приседания с опорой руками",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с паузой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с паузой",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой с колен (полуколено)",
+          "reps": 10
+        },
+        {
+          "name": "Выпады вперёд",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 19",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стула/дивана (наклонные)",
+          "reps": 10
+        },
+        {
+          "name": "Приседания с опорой руками",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с паузой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с паузой",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой с колен (полуколено)",
+          "reps": 10
+        },
+        {
+          "name": "Выпады вперёд",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 20",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания от стула/дивана (наклонные)",
+          "reps": 10
+        },
+        {
+          "name": "Приседания с опорой руками",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с паузой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с паузой",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой с колен (полуколено)",
+          "reps": 10
+        },
+        {
+          "name": "Выпады вперёд",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 21",
+      "warmup_url": null,
+      "rounds": null,
+      "cooldown_url": null,
+      "exercises": []
+    },
+    {
+      "day_label": "День 22",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Негативные отжимания (только опускание)",
+          "reps": 10
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания медленные (темповые)",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик медленный (темповый)",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания",
+          "reps": 5
+        },
+        {
+          "name": "Статический выпад (сплит-присед)",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 23",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Негативные отжимания (только опускание)",
+          "reps": 10
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания медленные (темповые)",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик медленный (темповый)",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания",
+          "reps": 5
+        },
+        {
+          "name": "Статический выпад (сплит-присед)",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 24",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Негативные отжимания (только опускание)",
+          "reps": 10
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания медленные (темповые)",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик медленный (темповый)",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания",
+          "reps": 5
+        },
+        {
+          "name": "Статический выпад (сплит-присед)",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 25",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Негативные отжимания (только опускание)",
+          "reps": 10
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания медленные (темповые)",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик медленный (темповый)",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания",
+          "reps": 5
+        },
+        {
+          "name": "Статический выпад (сплит-присед)",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 26",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Негативные отжимания (только опускание)",
+          "reps": 10
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания медленные (темповые)",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик медленный (темповый)",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания",
+          "reps": 5
+        },
+        {
+          "name": "Статический выпад (сплит-присед)",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 27",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Негативные отжимания (только опускание)",
+          "reps": 10
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания медленные (темповые)",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик медленный (темповый)",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания",
+          "reps": 5
+        },
+        {
+          "name": "Статический выпад (сплит-присед)",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 28",
+      "warmup_url": null,
+      "rounds": null,
+      "cooldown_url": null,
+      "exercises": []
+    },
+    {
+      "day_label": "День 29",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с колен",
+          "reps": 10
+        },
+        {
+          "name": "Приседания с паузой внизу",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания горизонтальные",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 5
+        },
+        {
+          "name": "Ходьба выпадами",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 30",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с колен",
+          "reps": 10
+        },
+        {
+          "name": "Приседания с паузой внизу",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания горизонтальные",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 5
+        },
+        {
+          "name": "Ходьба выпадами",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 31",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с колен",
+          "reps": 10
+        },
+        {
+          "name": "Приседания с паузой внизу",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания горизонтальные",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 5
+        },
+        {
+          "name": "Ходьба выпадами",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 32",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с колен",
+          "reps": 10
+        },
+        {
+          "name": "Приседания с паузой внизу",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания горизонтальные",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 5
+        },
+        {
+          "name": "Ходьба выпадами",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 33",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с колен",
+          "reps": 10
+        },
+        {
+          "name": "Приседания с паузой внизу",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания горизонтальные",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 5
+        },
+        {
+          "name": "Ходьба выпадами",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 34",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с колен",
+          "reps": 10
+        },
+        {
+          "name": "Приседания с паузой внизу",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания горизонтальные",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 5
+        },
+        {
+          "name": "Ходьба выпадами",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 35",
+      "warmup_url": null,
+      "rounds": null,
+      "cooldown_url": null,
+      "exercises": []
+    },
+    {
+      "day_label": "День 36",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания классические",
+          "reps": 8
+        },
+        {
+          "name": "Медленные приседания (темповые)",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге с паузой",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Выпады с паузой внизу",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 37",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания классические",
+          "reps": 8
+        },
+        {
+          "name": "Медленные приседания (темповые)",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге с паузой",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Выпады с паузой внизу",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 38",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания классические",
+          "reps": 8
+        },
+        {
+          "name": "Медленные приседания (темповые)",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге с паузой",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Выпады с паузой внизу",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 39",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания классические",
+          "reps": 8
+        },
+        {
+          "name": "Медленные приседания (темповые)",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге с паузой",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Выпады с паузой внизу",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 40",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания классические",
+          "reps": 8
+        },
+        {
+          "name": "Медленные приседания (темповые)",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге с паузой",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Выпады с паузой внизу",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 41",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания классические",
+          "reps": 8
+        },
+        {
+          "name": "Медленные приседания (темповые)",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге с паузой",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Выпады с паузой внизу",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 42",
+      "warmup_url": null,
+      "rounds": null,
+      "cooldown_url": null,
+      "exercises": []
+    },
+    {
+      "day_label": "День 43",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания широкие",
+          "reps": 8
+        },
+        {
+          "name": "Приседания “1,5 повтора”",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног и паузой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 15
+        },
+        {
+          "name": "Медленные выпады (темповые)",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 44",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания широкие",
+          "reps": 8
+        },
+        {
+          "name": "Приседания “1,5 повтора”",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног и паузой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 15
+        },
+        {
+          "name": "Медленные выпады (темповые)",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 45",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания широкие",
+          "reps": 8
+        },
+        {
+          "name": "Приседания “1,5 повтора”",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног и паузой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 15
+        },
+        {
+          "name": "Медленные выпады (темповые)",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 46",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания широкие",
+          "reps": 8
+        },
+        {
+          "name": "Приседания “1,5 повтора”",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног и паузой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 15
+        },
+        {
+          "name": "Медленные выпады (темповые)",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 47",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания широкие",
+          "reps": 8
+        },
+        {
+          "name": "Приседания “1,5 повтора”",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног и паузой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 15
+        },
+        {
+          "name": "Медленные выпады (темповые)",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 48",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания широкие",
+          "reps": 8
+        },
+        {
+          "name": "Приседания “1,5 повтора”",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног и паузой",
+          "reps": 5
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 15
+        },
+        {
+          "name": "Медленные выпады (темповые)",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 49",
+      "warmup_url": null,
+      "rounds": null,
+      "cooldown_url": null,
+      "exercises": []
+    },
+    {
+      "day_label": "День 50",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания узкие",
+          "reps": 8
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением лопаток (таз выше амплитуда)",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой с колен (полуколено)",
+          "reps": 15
+        },
+        {
+          "name": "Реверанс-выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 51",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания узкие",
+          "reps": 8
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением лопаток (таз выше амплитуда)",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой с колен (полуколено)",
+          "reps": 15
+        },
+        {
+          "name": "Реверанс-выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 52",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания узкие",
+          "reps": 8
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением лопаток (таз выше амплитуда)",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой с колен (полуколено)",
+          "reps": 15
+        },
+        {
+          "name": "Реверанс-выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 53",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания узкие",
+          "reps": 8
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением лопаток (таз выше амплитуда)",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой с колен (полуколено)",
+          "reps": 15
+        },
+        {
+          "name": "Реверанс-выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 54",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания узкие",
+          "reps": 8
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением лопаток (таз выше амплитуда)",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой с колен (полуколено)",
+          "reps": 15
+        },
+        {
+          "name": "Реверанс-выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 55",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания узкие",
+          "reps": 8
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением лопаток (таз выше амплитуда)",
+          "reps": 10
+        },
+        {
+          "name": "Жим над головой с колен (полуколено)",
+          "reps": 15
+        },
+        {
+          "name": "Реверанс-выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 56",
+      "warmup_url": null,
+      "rounds": null,
+      "cooldown_url": null,
+      "exercises": []
+    },
+    {
+      "day_label": "День 57",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания на возвышении (глубокие)",
+          "reps": 8
+        },
+        {
+          "name": "Болгарские приседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с паузой",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге с возвышением лопаток",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 7
+        },
+        {
+          "name": "Прыжковые выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 58",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания на возвышении (глубокие)",
+          "reps": 8
+        },
+        {
+          "name": "Болгарские приседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с паузой",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге с возвышением лопаток",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 7
+        },
+        {
+          "name": "Прыжковые выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 59",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания на возвышении (глубокие)",
+          "reps": 8
+        },
+        {
+          "name": "Болгарские приседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с паузой",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге с возвышением лопаток",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 7
+        },
+        {
+          "name": "Прыжковые выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 60",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания на возвышении (глубокие)",
+          "reps": 8
+        },
+        {
+          "name": "Болгарские приседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с паузой",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге с возвышением лопаток",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 7
+        },
+        {
+          "name": "Прыжковые выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 61",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания на возвышении (глубокие)",
+          "reps": 8
+        },
+        {
+          "name": "Болгарские приседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с паузой",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге с возвышением лопаток",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 7
+        },
+        {
+          "name": "Прыжковые выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 62",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 3,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания на возвышении (глубокие)",
+          "reps": 8
+        },
+        {
+          "name": "Болгарские приседания",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с паузой",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге с возвышением лопаток",
+          "reps": 10
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 7
+        },
+        {
+          "name": "Прыжковые выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 63",
+      "warmup_url": null,
+      "rounds": null,
+      "cooldown_url": null,
+      "exercises": []
+    },
+    {
+      "day_label": "День 64",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с рюкзаком",
+          "reps": 8
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 12
+        },
+        {
+          "name": "Австралийские подтягивания медленные (темповые)",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 12
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Болгарские выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 65",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с рюкзаком",
+          "reps": 8
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 12
+        },
+        {
+          "name": "Австралийские подтягивания медленные (темповые)",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 12
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Болгарские выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 66",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с рюкзаком",
+          "reps": 8
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 12
+        },
+        {
+          "name": "Австралийские подтягивания медленные (темповые)",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 12
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Болгарские выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 67",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с рюкзаком",
+          "reps": 8
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 12
+        },
+        {
+          "name": "Австралийские подтягивания медленные (темповые)",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 12
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Болгарские выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 68",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с рюкзаком",
+          "reps": 8
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 12
+        },
+        {
+          "name": "Австралийские подтягивания медленные (темповые)",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 12
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Болгарские выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 69",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с рюкзаком",
+          "reps": 8
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 12
+        },
+        {
+          "name": "Австралийские подтягивания медленные (темповые)",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 12
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Болгарские выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 70",
+      "warmup_url": null,
+      "rounds": null,
+      "cooldown_url": null,
+      "exercises": []
+    },
+    {
+      "day_label": "День 71",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с ногами на стуле",
+          "reps": 8
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 12
+        },
+        {
+          "name": "Австралийские подтягивания горизонтальные",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 12
+        },
+        {
+          "name": "Стойка на руках у стены (удержание)",
+          "reps": "60 секунд"
+        },
+        {
+          "name": "Выпады вперёд",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 72",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с ногами на стуле",
+          "reps": 8
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 12
+        },
+        {
+          "name": "Австралийские подтягивания горизонтальные",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 12
+        },
+        {
+          "name": "Стойка на руках у стены (удержание)",
+          "reps": "60 секунд"
+        },
+        {
+          "name": "Выпады вперёд",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 73",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с ногами на стуле",
+          "reps": 8
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 12
+        },
+        {
+          "name": "Австралийские подтягивания горизонтальные",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 12
+        },
+        {
+          "name": "Стойка на руках у стены (удержание)",
+          "reps": "60 секунд"
+        },
+        {
+          "name": "Выпады вперёд",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 74",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с ногами на стуле",
+          "reps": 8
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 12
+        },
+        {
+          "name": "Австралийские подтягивания горизонтальные",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 12
+        },
+        {
+          "name": "Стойка на руках у стены (удержание)",
+          "reps": "60 секунд"
+        },
+        {
+          "name": "Выпады вперёд",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 75",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с ногами на стуле",
+          "reps": 8
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 12
+        },
+        {
+          "name": "Австралийские подтягивания горизонтальные",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 12
+        },
+        {
+          "name": "Стойка на руках у стены (удержание)",
+          "reps": "60 секунд"
+        },
+        {
+          "name": "Выпады вперёд",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 76",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с ногами на стуле",
+          "reps": 8
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 12
+        },
+        {
+          "name": "Австралийские подтягивания горизонтальные",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 12
+        },
+        {
+          "name": "Стойка на руках у стены (удержание)",
+          "reps": "60 секунд"
+        },
+        {
+          "name": "Выпады вперёд",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 77",
+      "warmup_url": null,
+      "rounds": null,
+      "cooldown_url": null,
+      "exercises": []
+    },
+    {
+      "day_label": "День 78",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания “алмаз”",
+          "reps": 8
+        },
+        {
+          "name": "Приседания “1,5 повтора”",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик",
+          "reps": 15
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Статический выпад (сплит-присед)",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 79",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания “алмаз”",
+          "reps": 8
+        },
+        {
+          "name": "Приседания “1,5 повтора”",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик",
+          "reps": 15
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Статический выпад (сплит-присед)",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 80",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания “алмаз”",
+          "reps": 8
+        },
+        {
+          "name": "Приседания “1,5 повтора”",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик",
+          "reps": 15
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Статический выпад (сплит-присед)",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 81",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания “алмаз”",
+          "reps": 8
+        },
+        {
+          "name": "Приседания “1,5 повтора”",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик",
+          "reps": 15
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Статический выпад (сплит-присед)",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 82",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания “алмаз”",
+          "reps": 8
+        },
+        {
+          "name": "Приседания “1,5 повтора”",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик",
+          "reps": 15
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Статический выпад (сплит-присед)",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 83",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания “алмаз”",
+          "reps": 8
+        },
+        {
+          "name": "Приседания “1,5 повтора”",
+          "reps": 10
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик",
+          "reps": 15
+        },
+        {
+          "name": "Жим над головой рюкзаком стоя",
+          "reps": 20
+        },
+        {
+          "name": "Статический выпад (сплит-присед)",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 84",
+      "warmup_url": null,
+      "rounds": null,
+      "cooldown_url": null,
+      "exercises": []
+    },
+    {
+      "day_label": "День 85",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 5,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с ногами на стуле",
+          "reps": 8
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 15
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног и паузой",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 15
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 15
+        },
+        {
+          "name": "Выпады назад",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 86",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 5,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с ногами на стуле",
+          "reps": 8
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 15
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног и паузой",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 15
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 15
+        },
+        {
+          "name": "Выпады назад",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 87",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 5,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с ногами на стуле",
+          "reps": 8
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 15
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног и паузой",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 15
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 15
+        },
+        {
+          "name": "Выпады назад",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 88",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 5,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с ногами на стуле",
+          "reps": 8
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 15
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног и паузой",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 15
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 15
+        },
+        {
+          "name": "Выпады назад",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 89",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 5,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с ногами на стуле",
+          "reps": 8
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 15
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног и паузой",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 15
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 15
+        },
+        {
+          "name": "Выпады назад",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 90",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 5,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания с ногами на стуле",
+          "reps": 8
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 15
+        },
+        {
+          "name": "Австралийские подтягивания с возвышением ног и паузой",
+          "reps": 7
+        },
+        {
+          "name": "Ягодичный мостик с возвышением стоп",
+          "reps": 15
+        },
+        {
+          "name": "Жим над головой одной рукой (рюкзак/бутыль)",
+          "reps": 15
+        },
+        {
+          "name": "Выпады назад",
+          "reps": 15
+        }
+      ]
+    },
+    {
+      "day_label": "День 91",
+      "warmup_url": null,
+      "rounds": null,
+      "cooldown_url": null,
+      "exercises": []
+    },
+    {
+      "day_label": "День 92",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания классические",
+          "reps": 12
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 15
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 9
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 15
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 7
+        },
+        {
+          "name": "Прыжковые выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 93",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания классические",
+          "reps": 12
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 15
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 9
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 15
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 7
+        },
+        {
+          "name": "Прыжковые выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 94",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания классические",
+          "reps": 12
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 15
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 9
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 15
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 7
+        },
+        {
+          "name": "Прыжковые выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 95",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания классические",
+          "reps": 12
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 15
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 9
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 15
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 7
+        },
+        {
+          "name": "Прыжковые выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 96",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания классические",
+          "reps": 12
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 15
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 9
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 15
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 7
+        },
+        {
+          "name": "Прыжковые выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 97",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания классические",
+          "reps": 12
+        },
+        {
+          "name": "Прыжковые приседания",
+          "reps": 15
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 9
+        },
+        {
+          "name": "Ягодичный мостик на одной ноге",
+          "reps": 15
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 7
+        },
+        {
+          "name": "Прыжковые выпады",
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day_label": "День 98",
+      "warmup_url": null,
+      "rounds": null,
+      "cooldown_url": null,
+      "exercises": []
+    },
+    {
+      "day_label": "День 99",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания классические",
+          "reps": 15
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 30
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 10
+        },
+        {
+          "name": "Ягодичный мостик",
+          "reps": 20
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 9
+        },
+        {
+          "name": "Выпады вперёд",
+          "reps": 20
+        }
+      ]
+    },
+    {
+      "day_label": "День 100",
+      "warmup_url": "https://youtu.be/RW5jXoXVhIg",
+      "rounds": 4,
+      "cooldown_url": "https://www.youtube.com/watch?v=EKP3PljKjxc",
+      "exercises": [
+        {
+          "name": "Отжимания классические",
+          "reps": 20
+        },
+        {
+          "name": "Приседания классические",
+          "reps": 40
+        },
+        {
+          "name": "Австралийские подтягивания",
+          "reps": 12
+        },
+        {
+          "name": "Ягодичный мостик",
+          "reps": 30
+        },
+        {
+          "name": "Пикирующие отжимания с увеличенной амплитудой",
+          "reps": 10
+        },
+        {
+          "name": "Выпады вперёд",
+          "reps": 30
+        }
+      ]
+    }
+  ],
+  "explanations": {
+    "Отжимания от стены": {
+      "difficulty": 2,
+      "description": "Руки на стене на уровне груди, тело прямое, опускай грудь к стене и выжимайся назад."
+    },
+    "Отжимания от стола (наклонные)": {
+      "difficulty": 3,
+      "description": "Руки на столе/подоконнике, тело как планка, опускай грудь к краю стола и выжимайся."
+    },
+    "Отжимания от стула/дивана (наклонные)": {
+      "difficulty": 4,
+      "description": "То же самое, но опора ниже, поэтому нагрузка выше."
+    },
+    "Негативные отжимания (только опускание)": {
+      "difficulty": 4,
+      "description": "Из верхней позиции отжимания медленно опускайся до пола 5–8 сек, подъём делай с помощью колен/опоры."
+    },
+    "Отжимания с колен": {
+      "difficulty": 5,
+      "description": "Колени на полу, корпус прямой, опускай грудь к полу и выжимайся вверх."
+    },
+    "Отжимания классические": {
+      "difficulty": 6,
+      "description": "Ладони под плечами или чуть шире, корпус жёсткий, опускайся грудью к полу и выжимайся."
+    },
+    "Отжимания широкие": {
+      "difficulty": 6,
+      "description": "Руки шире плеч, опускай грудь между ладонями, держи плечи под контролем."
+    },
+    "Отжимания узкие": {
+      "difficulty": 6,
+      "description": "Руки уже плеч, локти ближе к корпусу, корпус прямой, движение контролируемое."
+    },
+    "Отжимания на возвышении (глубокие)": {
+      "difficulty": 7,
+      "description": "Ладони на двух устойчивых опорах (например, книги), опускай грудь ниже уровня ладоней и выжимайся."
+    },
+    "Отжимания с рюкзаком": {
+      "difficulty": 7,
+      "description": "Рюкзак с весом на спине, классическая техника, контролируй корпус и амплитуду."
+    },
+    "Отжимания с ногами на стуле": {
+      "difficulty": 7,
+      "description": "Ноги на стуле/диване, руки на полу, тело прямое, опускайся и выжимайся."
+    },
+    "Отжимания “алмаз”": {
+      "difficulty": 7,
+      "description": "Ладони близко под грудью, пальцы почти соприкасаются, опускайся контролируемо и выжимайся."
+    },
+    "Отжимания “лучник”": {
+      "difficulty": 8,
+      "description": "Смещай вес в одну сторону: одна рука жмёт, другая почти прямая, затем меняй сторону."
+    },
+    "Псевдо-планш отжимания": {
+      "difficulty": 8,
+      "description": "Руки чуть ближе к тазу, корпус наклонён вперёд, опускайся и выжимайся с контролем."
+    },
+    "Взрывные отжимания": {
+      "difficulty": 9,
+      "description": "Выжимайся резко так, чтобы ладони отрывались от пола, приземляйся мягко и стабильно."
+    },
+    "Прогрессия к отжиманиям на одной руке": {
+      "difficulty": 9,
+      "description": "Постепенно переносишь всё больше веса на одну руку, уменьшая помощь второй, сохраняя корпус ровным."
+    },
+    "Отжимания на одной руке": {
+      "difficulty": 10,
+      "description": "Одна рука под грудью, ноги широко для баланса, корпус не скручивай, опускайся и выжимайся строго."
+    },
+    "Планш-наклон отжимания": {
+      "difficulty": 10,
+      "description": "Сильный наклон вперёд, плечи “за ладонями”, корпус жёсткий, движение короткое и контролируемое."
+    },
+    "Приседания до стула (контроль глубины)": {
+      "difficulty": 1,
+      "description": "Садись на стул и вставай без “падения”, колени смотрят примерно туда же, куда носки, спина ровная."
+    },
+    "Полуприседания": {
+      "difficulty": 2,
+      "description": "Приседай на половину амплитуды, держи корпус устойчивым, пятки на полу."
+    },
+    "Приседания с опорой руками": {
+      "difficulty": 2,
+      "description": "Держись за стол/дверной косяк для баланса и контроля, приседай спокойно, без рывков."
+    },
+    "Приседания классические": {
+      "difficulty": 3,
+      "description": "Ноги на ширине плеч (примерно), приседай вниз, колени не “валятся” внутрь, вставай через пятки."
+    },
+    "Приседания с паузой внизу": {
+      "difficulty": 4,
+      "description": "Опустись в присед, задержись 2–5 секунд, затем вставай без раскачки."
+    },
+    "Медленные приседания (темповые)": {
+      "difficulty": 4,
+      "description": "Опускайся медленно 3–6 секунд, вставай контролируемо, корпус жёсткий."
+    },
+    "Приседания “1,5 повтора”": {
+      "difficulty": 5,
+      "description": "Опустись вниз, поднимись наполовину, снова вниз, затем полностью вверх. Один такой цикл = 1 повтор."
+    },
+    "Прыжковые приседания": {
+      "difficulty": 6,
+      "description": "Из приседа выпрыгни вверх, приземляйся мягко на всю стопу, колени контролируй, снова вниз."
+    },
+    "Болгарские приседания": {
+      "difficulty": 7,
+      "description": "Одна нога сзади на стуле/диване, другая впереди, опускайся вниз, вставай через переднюю ногу, корпус стабилен."
+    },
+    "Пистолетик до стула": {
+      "difficulty": 8,
+      "description": "Приседай на одной ноге до касания стула, вставай без “провала” корпуса, вторая нога впереди."
+    },
+    "Пистолетик (приседания на одной ноге)": {
+      "difficulty": 10,
+      "description": "Полный присед на одной ноге с контролем, пятка опорной ноги держится, корпус не заваливается, подъём строго."
+    },
+    "Тяга к перекладине в наклоне с высокой опорой": {
+      "difficulty": 2,
+      "description": "Перекладина высоко, тело под углом (не горизонтально). Возьмись, подтяни грудь к перекладине, лопатки своди, опускайся под контролем."
+    },
+    "Австралийские подтягивания": {
+      "difficulty": 4,
+      "description": "Перекладина на высоте, при которой тело почти прямое. Подтягивай грудь к перекладине, держи корпус жёстким, опускайся медленно."
+    },
+    "Австралийские подтягивания с паузой": {
+      "difficulty": 5,
+      "description": "В верхней точке задержись на 2–3 секунды, лопатки сведены, затем опустись под контролем."
+    },
+    "Австралийские подтягивания медленные (темповые)": {
+      "difficulty": 6,
+      "description": "Подтягивайся и опускайся медленно, без рывков, сохраняй жёсткий корпус и контроль лопаток."
+    },
+    "Австралийские подтягивания горизонтальные": {
+      "difficulty": 7,
+      "description": "Перекладина низко, тело почти параллельно полу. Подтяни грудь к перекладине, держи линию тела ровной, не провисай тазом."
+    },
+    "Австралийские подтягивания с возвышением ног": {
+      "difficulty": 8,
+      "description": "Ноги на стуле/диване, тело почти горизонтально. Подтяни грудь к перекладине, контролируй корпус и лопатки, опускайся плавно."
+    },
+    "Австралийские подтягивания с возвышением ног и паузой": {
+      "difficulty": 9,
+      "description": "В верхней точке удерживай 2–3 секунды, не “впрыгивай” в положение, затем опускайся медленно."
+    },
+    "Австралийские подтягивания с дополнительным весом": {
+      "difficulty": 10,
+      "description": "Рюкзак на груди/животе или утяжеление, подтягивайся строго, без рывков, конструкция должна быть максимально надёжной."
+    },
+    "Ягодичный мостик с опорой на диван (облегчённый)": {
+      "difficulty": 1,
+      "description": "Лопатки на диване/кровати, стопы на полу, поднимай таз до прямой линии плечи–таз–колени, сжимай ягодицы, опускайся под контролем."
+    },
+    "Ягодичный мостик": {
+      "difficulty": 2,
+      "description": "Лёжа на спине, колени согнуты, стопы на полу. Подними таз вверх, сожми ягодицы, опусти медленно, поясницу не переразгибай."
+    },
+    "Ягодичный мостик с паузой": {
+      "difficulty": 3,
+      "description": "В верхней точке удерживай таз 2–5 секунд, сохраняй напряжение ягодиц, затем опускайся."
+    },
+    "Ягодичный мостик медленный (темповый)": {
+      "difficulty": 4,
+      "description": "Поднимай и опускай таз медленно, движение ровное, без рывков, контроль внизу и вверху."
+    },
+    "Ягодичный мостик на одной ноге": {
+      "difficulty": 6,
+      "description": "Одна стопа на полу, другая нога поднята. Поднимай таз через опорную ногу, удерживай таз ровно (без перекоса), опускайся плавно."
+    },
+    "Ягодичный мостик на одной ноге с паузой": {
+      "difficulty": 7,
+      "description": "То же самое, но вверху задержка 2–5 секунд, держи таз ровным и не теряй напряжение ягодиц."
+    },
+    "Ягодичный мостик с возвышением стоп": {
+      "difficulty": 7,
+      "description": "Стопы на стуле/диване, лопатки на полу. Поднимай таз вверх до ровной линии, опускайся медленно, контролируй поясницу."
+    },
+    "Ягодичный мостик с возвышением лопаток (таз выше амплитуда)": {
+      "difficulty": 8,
+      "description": "Лопатки на диване/кровати, стопы на полу. Поднимай таз выше, чем в обычном мостике, держи корпус стабильным, движение строго."
+    },
+    "Ягодичный мостик на одной ноге с возвышением лопаток": {
+      "difficulty": 10,
+      "description": "Лопатки на диване, одна нога работает, вторая поднята. Поднимай таз строго вверх, таз не разворачивай, полный контроль на всём движении."
+    },
+    "Жим над головой рюкзаком стоя": {
+      "difficulty": 3,
+      "description": "Надень рюкзак на грудь (или держи перед собой), выжми вверх до прямых рук над головой. Корпус жёсткий, рёбра “вниз”, не прогибайся в пояснице. Опускай под контролем."
+    },
+    "Жим над головой одной рукой (рюкзак/бутыль)": {
+      "difficulty": 5,
+      "description": "Держи груз одной рукой у плеча и выжимай вверх. Следи, чтобы плечо не “вылетало” вперёд и корпус не заваливался в сторону."
+    },
+    "Жим над головой с колен (полуколено)": {
+      "difficulty": 5,
+      "description": "Одна нога впереди, второе колено на полу, выжимай груз вверх. Корпус ровный, таз под контролем, не крутись. Отлично ловит слабые места стабилизации."
+    },
+    "Пикирующие отжимания": {
+      "difficulty": 6,
+      "description": "Руки на полу, таз вверх “домиком”. Опускай голову к полу между руками и выжимайся вверх. Держи давление в ладонях и жёсткий корпус, чтобы не “ломаться”."
+    },
+    "Пикирующие отжимания с увеличенной амплитудой": {
+      "difficulty": 7,
+      "description": "Руки на устойчивых книгах/опорах, чтобы голова могла опускаться ниже уровня ладоней. Движение медленное и контролируемое, без рывков."
+    },
+    "Стойка на руках у стены (удержание)": {
+      "difficulty": 7,
+      "description": "Встань в стойку на руках у стены и держи корпус “в линию”. Это не жим, но это база для него: плечи, стабилизация, контроль."
+    },
+    "Негативные отжимания в стойке на руках у стены": {
+      "difficulty": 9,
+      "description": "Из стойки у стены медленно опускайся вниз 3–8 секунд до комфортной глубины и аккуратно выходи. Плечи под контролем, не проваливайся."
+    },
+    "Отжимания в стойке на руках у стены": {
+      "difficulty": 10,
+      "description": "Полная версия: опускаешься и выжимаешься вверх в стойке на руках у стены. Требует силы плеч и контроля корпуса, иначе это просто опасная гимнастика."
+    },
+    "Выпады назад с опорой": {
+      "difficulty": 1,
+      "description": "Держись за стену/стол для баланса, шагни назад, опустись вниз, вернись вверх, корпус ровный."
+    },
+    "Выпады назад": {
+      "difficulty": 3,
+      "description": "Шаг назад, опускайся до комфортной глубины, передняя стопа полностью на полу, поднимайся через переднюю ногу."
+    },
+    "Выпады вперёд": {
+      "difficulty": 4,
+      "description": "Шаг вперёд, опусти таз вниз, удерживай колено передней ноги под контролем, вернись в исходное положение."
+    },
+    "Статический выпад (сплит-присед)": {
+      "difficulty": 4,
+      "description": "Ноги в позиции выпада, без шагов вверх-вниз, корпус вертикальный, вес распределён устойчиво."
+    },
+    "Ходьба выпадами": {
+      "difficulty": 5,
+      "description": "Делай выпады шаг за шагом вперёд (или по комнате), контролируй приземление и положение коленей."
+    },
+    "Выпады с паузой внизу": {
+      "difficulty": 5,
+      "description": "В нижней точке остановись на 2–5 секунд, затем поднимайся без раскачки."
+    },
+    "Медленные выпады (темповые)": {
+      "difficulty": 6,
+      "description": "Опускайся медленно 3–6 секунд, поднимайся контролируемо, без “падения” вниз."
+    },
+    "Реверанс-выпады": {
+      "difficulty": 6,
+      "description": "Шагай назад по диагонали за опорную ногу, таз вниз, держи равновесие и контроль колена."
+    },
+    "Прыжковые выпады": {
+      "difficulty": 8,
+      "description": "Из выпада выпрыгни вверх и поменяй ноги в воздухе, приземлись мягко и стабильно, держи корпус жёстким."
+    },
+    "Болгарские выпады": {
+      "difficulty": 8,
+      "description": "Задняя нога на стуле/диване, передняя на полу, опускайся вниз и поднимайся через переднюю ногу, баланс под контролем."
+    }
+  }
+}
