@@ -8,6 +8,7 @@ import ChallengeProgress from "@/components/ChallengeProgress";
 import DaySelector from "@/components/DaySelector";
 import ExerciseItem from "@/components/ExerciseItem";
 import { PlayCircle } from "lucide-react";
+import Image from "next/image";
 
 const START_DATE = new Date(2026, 1, 23); // Months are 0-indexed in JS. Feb is 1. Feb 23, 2026.
 const data = workoutDataJson as WorkoutData;
@@ -49,7 +50,15 @@ export default function Home() {
 
   return (
     <main className="container min-h-screen py-8 pb-20">
-      <header className="mb-8 text-center pt-4">
+      <header className="mb-8 flex flex-col items-center text-center pt-4">
+        <Image
+          src="/t-logo.png"
+          alt="100 Дней Любви к Себе"
+          width={80}
+          height={80}
+          className="mb-4 object-contain drop-shadow-md"
+          priority
+        />
         <h1 className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent mb-2">
           100 Дней Любви к Себе
         </h1>
